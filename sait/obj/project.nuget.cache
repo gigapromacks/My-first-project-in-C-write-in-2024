@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fX+ppRU8Zg4=",
+  "success": true,
+  "projectFilePath": "D:\\Project C#\\sait\\sait.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.301\\microsoft.net.sdk.compilers.toolset.9.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
