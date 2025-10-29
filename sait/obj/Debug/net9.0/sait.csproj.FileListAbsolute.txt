@@ -1,0 +1,14 @@
+D:\Project C#\sait\bin\Debug\net9.0\sait.exe
+D:\Project C#\sait\bin\Debug\net9.0\sait.deps.json
+D:\Project C#\sait\bin\Debug\net9.0\sait.runtimeconfig.json
+D:\Project C#\sait\bin\Debug\net9.0\sait.dll
+D:\Project C#\sait\bin\Debug\net9.0\sait.pdb
+D:\Project C#\sait\obj\Debug\net9.0\sait.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C#\sait\obj\Debug\net9.0\sait.AssemblyInfoInputs.cache
+D:\Project C#\sait\obj\Debug\net9.0\sait.AssemblyInfo.cs
+D:\Project C#\sait\obj\Debug\net9.0\sait.csproj.CoreCompileInputs.cache
+D:\Project C#\sait\obj\Debug\net9.0\sait.dll
+D:\Project C#\sait\obj\Debug\net9.0\refint\sait.dll
+D:\Project C#\sait\obj\Debug\net9.0\sait.pdb
+D:\Project C#\sait\obj\Debug\net9.0\sait.genruntimeconfig.cache
+D:\Project C#\sait\obj\Debug\net9.0\ref\sait.dll
